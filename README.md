@@ -37,7 +37,7 @@ This filter in its default state, with no processing produces very desaturated a
 
 ------
 
-Of course this is just the tip of the iceberg, when it comes to cool grading we can achieve with infrared. It's almost limitless
+Of course this is just the tip of the iceberg, when it comes to cool grading we can achieve with infrared. With some time you can pull off really alien feeling imagery, this has been attempted on commercial cinema already before with terrific results.
 
 <img width="1374" height="950" alt="color-treatments_rob-shea" src="https://github.com/user-attachments/assets/cfbf59c2-25d9-4fda-8555-4162d8044c47" />
 
@@ -45,6 +45,6 @@ https://github.com/user-attachments/assets/aebb2fa1-f3df-4a45-b51b-0ae0603ef185
 
 ------
 
-To be continued
+To be continued 
 
 
