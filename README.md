@@ -5,7 +5,7 @@
 <img width="1136" height="639" alt="autochrome-look1" src="https://github.com/user-attachments/assets/7923bf65-eb0c-40d5-8261-1dd3263cc897" />
 
 I always wanted to try Digital Infrared Photography, I'd seen alot of really beautiful and surreal looking images and videos over the years. \
-The more I looked into trying it. The more I learnt how prohibitively expensive it could be, to get into, if you want to start doing this the old-school way with film.
+The more I looked into trying it. The more I learnt how prohibitively expensive it could be to get into. That is, if you want to start doing this the old-school way with film.
 
 I have to mention that you have to sacrifice a digital camera to do this. You have to remove its built-in IR Filter to convert it into a Full-Spectrum camera, this is objectively the right way to do this. \
 [Kolari Vision](https://kolarivision.com) is one of the few companies that does such conversions on cameras. If you want to, you could get it done by a professional. And get a matching set of high-quality filters.
