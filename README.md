@@ -23,7 +23,7 @@ This contains what i've learnt from the little time I spent looking up how to do
 
 While it's a cheap DIY project you can attempt once you have all the materials, it's definitely tricky to perform. Not to mention that it does carry a risk of ruining your sensor permanently if your hands aren't very delicate. Don't even bother trying if you don't have the right equipment or if you're doing it on the only camera you have. It is not worth it.
 
-[Kolari Vision](https://kolarivision.com) & [LifePixel](https://www.lifepixel.com) are one of the more popular companies that does such conversions on cameras. If you want to, you could get it done by a professional, and get a matching set of high-quality filters to start off with.
+[Kolari Vision](https://kolarivision.com) & [LifePixel](https://www.lifepixel.com) are one of the more popular companies that do such conversions. If you want to, you could get it done by a professional and also get a matching set of high-quality filters to start off with.
 
 Here's what you'll basically be doing. You start with disassembling the camera up until you get to the sensor, I recommend that you follow a guide for the specific camera you have. If the model of your camera is popular, chances are someone has already done an infrared mod and documented the process! \
 Now you can carefully remove the factory IR Filter on the camera, then replace it with a clear pane of full-spectrum glass. Then you put the camera back together, and pray you didn't mess up the focus calibration. 
