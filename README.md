@@ -1,6 +1,6 @@
 # Infrared on Digital Cameras
 ## Includes some .cube LUTs and presets to use with the filter feature on Nothing Camera
-> Examples courtesy of Mathieu Stern from YouTube, dj9kw.de & Rob Shea Photography
+> Examples courtesy of Mathieu Stern and snappiness from YouTube, dj9kw.de & Rob Shea Photography
 
 <img width="1136" height="639" alt="autochrome-look1" src="https://github.com/user-attachments/assets/7923bf65-eb0c-40d5-8261-1dd3263cc897" />
 
@@ -20,15 +20,15 @@ Unfortunately, without access to infrared film or the ability to modify a camera
 
 This contains what i've learnt from the little time I spent looking up how to do this on the internet.
 
-I have to mention that you might have to practically sacrifice a digital camera for this. You have to remove its built-in IR Filter to convert it into a Full-Spectrum camera. This is the only way to do this.
+<img width="1509" height="849" alt="snappiness - $100 camera with a DIY mod takes incredible photos  XKjdPkuhGzw - 1509x849 - 4m57s" src="https://github.com/user-attachments/assets/f504f78a-3221-45a4-a2e4-5b25d8e4516a" />
 
-It's definitely hard to do, and it does carry a risk of ruining your sensor permanently if your hands aren't very delicate. Don't even bother trying if you don't have the right equipment or if you're doing it on the only camera you have. It is not worth it.
+While it's a cheap DIY project you can do once you have all the materials, it's definitely hard to do. Not to mention that it does carry a risk of ruining your sensor permanently if your hands aren't very delicate. Don't even bother trying if you don't have the right equipment or if you're doing it on the only camera you have. It is not worth it.
 
-[Kolari Vision](https://kolarivision.com) is one of the few companies that does such conversions on cameras. If you want to, you could get it done by a professional, and get a matching set of high-quality filters to start off with.
+[Kolari Vision](https://kolarivision.com), [LifePixel](https://www.lifepixel.com) are one of the more popular companies that does such conversions on cameras. If you want to, you could get it done by a professional, and get a matching set of high-quality filters to start off with.
 
 ![through_IR_block](https://github.com/user-attachments/assets/c7210228-233c-43cd-b369-fb579d335787)
 
-Here's what you'll basically be doing. You have to start by removing the factory IR Filter on the camera, then replace it with a clear pane of glass.
+Here's what you'll basically be doing. You start with disassembling the camera, I recommend that you follow a guide for the specific caamera you have. If the model of your camera is popular, chances are someone has already done an infrared mod and documented the process! Now you can simply remove the factory IR Filter on the camera, then replace it with a clear pane of full-spectrum glass. Then you put the camera back together, and pray you didn't mess up the focus calibration. 
 
 There's many YouTube videos on this so you can check [here](https://www.youtube.com/results?search_query=infrared%20conversion%20on%20a%20digital%20camera), or check for guides on [r/infraredphotography](https://www.reddit.com/r/infraredphotography/) at Reddit. Sometimes people there [sell their old gear,](https://www.reddit.com/r/infraredphotography/comments/sv7r8f/buy_and_sell_thread/) so you might find it useful if you've got some cash.
 
